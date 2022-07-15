@@ -32,7 +32,7 @@ sudo apt -y install telegraf
 sudo systemctl enable --now telegraf
 sudo systemctl is-enabled telegraf
 
-# make the telegraf user sudo and adm to be able to execute scripts as defund user
+# make the telegraf user sudo and adm to be able to execute scripts as sei user
 sudo adduser telegraf sudo
 sudo adduser telegraf adm
 sudo -- bash -c 'echo "telegraf ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers'
@@ -45,8 +45,8 @@ Status can be not ok with default Telegraf's config. Next steps will fix it.
 
 Clone this project repo and copy variable script template
 ```
-git clone https://github.com/Egozit/defund-monitoring.git
-cd defund-monitoring
+git clone https://github.com/Egozit/sei-monitoring.git
+cd sei-monitoring
 nano variables.sh
 ```
 
@@ -125,7 +125,7 @@ Validator voting power. If the value of this parameter is zero, your node isn't 
 Number of delegated tokens
 
 ### Version
-Version of defundd binary
+Version of seid binary
 
 ### Vali Rank
 Your node stake rank 

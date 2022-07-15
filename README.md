@@ -1,4 +1,4 @@
-# Sei node monitoring tool
+# Sei node monitoring tool manual guide
 
 To monitor you node your should install and configure:
 * [InfluxDB](https://www.influxdata.com/products/influxdb/)

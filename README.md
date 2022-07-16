@@ -14,6 +14,11 @@ Advantages  of using our free service:
 Check out our free community dashboard: 
 # [Dashboard link](http://95.216.2.219:3000/d/sei/sei-monitoring-by-l0vd?orgId=1&refresh=30s)
 
+## One line installation:
+```
+one-liner goes here
+```
+
 ## Manual installation of telegraf and monitoring script
 
 Install telegraf

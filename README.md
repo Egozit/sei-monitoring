@@ -16,7 +16,7 @@ Advantages  of using our free service:
 . <(wget -qO- https://raw.githubusercontent.com/Egozit/sei-monitoring/main/sei-monitoring-install.sh)
 ```
 
-## Manual installation of telegraf and monitoring script
+## OR Manual installation of telegraf and monitoring script
 
 Install telegraf
 ```

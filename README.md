@@ -1,4 +1,7 @@
 # Sei node monitoring tool manual guide
+## Community dashboard by L0vd.com
+Check out our free community dashboard: 
+# [Dashboard link](http://95.216.2.219:3000/d/sei/sei-monitoring-by-l0vd?orgId=1&refresh=30s)
 
 To monitor you node your should install and configure:
 * [InfluxDB](https://www.influxdata.com/products/influxdb/)
@@ -9,10 +12,6 @@ Advantages  of using our free service:
 * No need to install database  (InfluxDB)
 * No need to install and configure  Grafana Dashboard
 * On Grafana dashboard you will find all necessary metrics of your node (we use this monitoring service by ourselves, so we've configured dashboard properly)
-
-## Community dashboard by L0vd.com
-Check out our free community dashboard: 
-# [Dashboard link](http://95.216.2.219:3000/d/sei/sei-monitoring-by-l0vd?orgId=1&refresh=30s)
 
 ## One line installation:
 ```

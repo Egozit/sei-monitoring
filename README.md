@@ -1,6 +1,5 @@
 # Sei node monitoring tool manual guide
 ## Community dashboard by L0vd.com
-Check out our free community dashboard: 
 # [Dashboard link](http://95.216.2.219:3000/d/sei/sei-monitoring-by-l0vd?orgId=1&refresh=30s)
 
 To monitor you node your should install and configure:

@@ -163,7 +163,7 @@ else
 fi
 
 echo ''
-echo -e '\e[7mYour sei mode monitoring is installed!\e[0m'
+echo -e '\e[7mYour Sei node monitoring is installed!\e[0m'
 echo ''
 echo -e "Your node info:"
 echo ''
